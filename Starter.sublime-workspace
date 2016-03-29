@@ -1,0 +1,201 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"maya"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"length",
+				"length-1"
+			],
+			[
+				"int",
+				"intList"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/johnghantous/Google Drive/ComProg/PinBallv3/Starter.java",
+		"/Users/johnghantous/Desktop/Lotto.java",
+		"/Users/johnghantous/Desktop/Starter.java",
+		"/Users/johnghantous/Desktop/Charbel.java",
+		"/Users/johnghantous/Google Drive/ComProg/Drawing/Starter.java",
+		"/Users/johnghantous/Google Drive/ComProg/Drawing/README.TXT",
+		"/Users/johnghantous/Google Drive/ComProg/Hangman/README.TXT",
+		"/Users/johnghantous/Downloads/digital-7/readme.txt",
+		"/Users/johnghantous/Google Drive/ComProg/3.32/README.TXT",
+		"/Users/johnghantous/Downloads/App Icon Template [5.0]/AppIcon.appiconset/Contents.json",
+		"/Users/johnghantous/Desktop/test.java",
+		"/Users/johnghantous/Google Drive/ComProg/CP_HW_Notes/CodingBat",
+		"/Users/johnghantous/Google Drive/ComProg/RPG/README.TXT",
+		"/Users/johnghantous/Desktop/Test.java",
+		"/Users/johnghantous/Desktop/Hangman1.java",
+		"/Users/johnghantous/ComProg/RPG/README.TXT",
+		"/Users/johnghantous/ComProg/CP_HW:Notes/HW3.2.txt",
+		"/Users/johnghantous/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/johnghantous/ComProg/ComprogHW/RPG_Outline.txt",
+		"/Users/johnghantous/ComProg/ComProgClub/Cryptographer",
+		"/Users/johnghantous/Desktop/testmay.java"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Starter.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
